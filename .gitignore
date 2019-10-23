@@ -1,0 +1,7 @@
+# exclude everything in emnist folder
+/Data/emnist/*
+CharRecog/Data/emnist/*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
